@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# Blast game
+Blast game made with cocos 2.4
